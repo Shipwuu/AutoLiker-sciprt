@@ -1,6 +1,7 @@
 # AutoLiker-script_AniList By ~Shipuu
 
-# How to instal
+# How to instal - Sry btw if i dint make the shortcut
+
 - Download Tampermonkey
 - Open "https://github.com/Shipwuu/AutoLiker-sciprt/blob/main/Source"
 - Then Copy the script
