@@ -1,4 +1,4 @@
-# AutoLiker-script - AniList By ~Shipuu
+# AutoLiker-script_AniList By ~Shipuu
 
 # How to instal
 - Download Tampermonkey
