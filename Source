@@ -17,7 +17,7 @@
 (function() {
   'use strict';
 
-  const BLACKLIST_USER = "Shipuu";
+  const BLACKLIST_USER = "";
   const DELAY = 300;
 
   function sleep(ms){ return new Promise(r=>setTimeout(r, ms)); }
